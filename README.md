@@ -1,8 +1,8 @@
 ## Modular decomposition
 ### Algorithms
-[Factorizing Permutation](http://web.archive.org/web/20150619185404/http://www.liafa.jussieu.fr/~fm/publications/dmtcs.ps)
+[Factorizing Permutation](articles/dmtcs.ps)
 
-[Decomposition tree](http://web.archive.org/web/20150619185404/http://www.liafa.jussieu.fr/~fm/publications/swat04.pdf)
+[Decomposition tree](articles/swat04.pdf)
 
 ### Implementation by [Fabien de Montgolfier](https://www.irif.fr/users/fm/index)
 It was publicly avaiable on his homepage, but now it can be found only on [web archive](http://web.archive.org/web/20150619185404/http://www.liafa.jussieu.fr/~fm/algos/index.html).
