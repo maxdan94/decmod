@@ -1,7 +1,7 @@
 ## Modular decomposition
 Forked from https://github.com/maxdan94/decmod
 
-I've added a code to read a graph from a text file and a Makefile.
+I've added a dirty piece code to read a graph from a text file and a Makefile.
 
 type "Make" to compile the C code.
 
