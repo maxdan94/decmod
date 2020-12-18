@@ -11,7 +11,7 @@ type "make" to compile the C code.
 - Will print some infos about the modular decomposition
 
 
-What does it give on some real world graphs?:
+What does it give on real-world graphs?:
 
 On Youtube: http://snap.stanford.edu/data/com-Youtube.html
 ```
