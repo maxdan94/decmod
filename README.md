@@ -3,7 +3,7 @@ Forked from https://github.com/antonovvk/decmod
 
 I've added a dirty piece code to read a graph from a text file and a Makefile.
 
-type "Make" to compile the C code.
+type "make" to compile the C code.
 
 "./dm edgelist.txt".
 
