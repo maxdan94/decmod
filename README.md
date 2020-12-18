@@ -1,5 +1,5 @@
 ## Modular decomposition
-Forked from https://github.com/maxdan94/decmod
+Forked from https://github.com/antonovvk/decmod
 
 I've added a dirty piece code to read a graph from a text file and a Makefile.
 
